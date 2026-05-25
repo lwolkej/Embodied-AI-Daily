@@ -40,29 +40,19 @@ with open("README.md", "r") as f:
 logging.info("获取关键词列表")
 
 keywords = [
-    "Vision and Language Navigation",
-    "Vision Language Action",
-    "World Model",
-    "Visual SLAM",
-    "Visual Inertial SLAM",
-    "Visual Inertial Odometry",
-    "Lidar SLAM",
-    "LiDAR Odometry",
-    "GNSS",
-    "Graph Optimization",
-    "Dynamic SLAM",
-    "Semantic SLAM",
-    "Gaussian SLAM",
-    "Autonomous Driving",
-    "Kalman Filter",
-    "Loop Closure Detection",
-    "Visual Place Recognition",
-    "3D Gaussian Splatting",
-    "Deep Learning",
-    "LLM",
-]  # TODO add more keywords
+    "Autonomous Search",
+    "Field Robotics",
+    "Long Range Navigation",
+    "Open Vocabulary Navigation",
+    "Semantic Scene Understanding",
+    "Vision Based Navigation",
+    "Zero shot object navigation",
+    "embodied exploration",
+    "quadruped robots",
+    "traversability mapping"
+] # TODO add more keywords
 
-max_result = 80  # maximum query results from arXiv API for each keyword
+max_result = 20  # maximum query results from arXiv API for each keyword
 issues_result = 10  # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
