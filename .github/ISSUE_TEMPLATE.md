@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 26, 2026
+title: Latest 10 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Long Range Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation](https://arxiv.org/abs/2605.25646v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[InFeR: Informed Failure Resilience in Learned Visual Navigation Control](https://arxiv.org/abs/2510.24680v2)** | 2026-05-18 |  |
 | **[PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation](https://arxiv.org/abs/2605.07496v1)** | 2026-05-08 | <details><summary>Work ...</summary><p>Work in the progress. 11 pages, 7 figures</p></details> |
 | **[Visual SLAM with DEM Anchoring for Lunar Surface Navigation](https://arxiv.org/abs/2603.17229v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted to IEEE Aerospace Conference 2026</p></details> |
@@ -44,7 +45,6 @@ labels: documentation
 | **[SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://arxiv.org/abs/2512.10046v3)** | 2026-01-23 | <details><summary>Confe...</summary><p>Conference: NeurIPS 2025 (main)</p></details> |
 | **[CLEAR: A Semantic-Geometric Terrain Abstraction for Large-Scale Unstructured Environments](https://arxiv.org/abs/2601.13361v1)** | 2026-01-19 | <details><summary>Under...</summary><p>Under review for an IEEE conference</p></details> |
 | **[FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation](https://arxiv.org/abs/2601.12790v1)** | 2026-01-19 | 12 pages, 11 figures |
-| **[FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/abs/2509.13733v3)** | 2025-11-25 | <details><summary>Demo ...</summary><p>Demo video are available at https://horizonrobotics.github.io/robot_lab/fsr-vln/</p></details> |
 
 ## Open Vocabulary Navigation
 | **Title** | **Date** | **Comment** |
@@ -115,6 +115,7 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IsaacIPC: Coupling High-Fidelity Simulation and Realistic Rendering for Contact-Rich Robotic Systems](https://arxiv.org/abs/2605.24339v1)** | 2026-05-23 | <details><summary>This ...</summary><p>This is a tech report</p></details> |
 | **[Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2605.18431v2)** | 2026-05-19 |  |
 | **[Guided Reinforcement Learning for Omnidirectional 3D Jumping in Quadruped Robots](https://arxiv.org/abs/2507.16481v3)** | 2026-05-18 |  |
 | **[SuReNav: Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environments](https://arxiv.org/abs/2602.06807v2)** | 2026-05-16 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026. Code and videos are available at https://sure-nav.github.io/</p></details> |
@@ -124,7 +125,6 @@ labels: documentation
 | **[Evaluation of an Actuated Spine in Agile Quadruped Locomotion](https://arxiv.org/abs/2605.07988v1)** | 2026-05-08 |  |
 | **[PEPA: a Persistently Autonomous Embodied Agent with Personalities](https://arxiv.org/abs/2603.00117v3)** | 2026-05-07 |  |
 | **[A Vision-Based Shared-Control Teleoperation Scheme for Controlling the Robotic Arm of a Four-Legged Robot](https://arxiv.org/abs/2508.14994v3)** | 2026-05-04 |  |
-| **[Viewpoint-Agnostic Grasp Pipeline using VLM and Partial Observations](https://arxiv.org/abs/2603.07866v2)** | 2026-05-04 |  |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
