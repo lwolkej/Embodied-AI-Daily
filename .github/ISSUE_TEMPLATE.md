@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 27, 2026
+title: Latest 10 Papers - May 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -115,6 +115,7 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Balance Motor Thermal Safety and Quadrupedal Locomotion Performance with Residual Policy](https://arxiv.org/abs/2605.27046v1)** | 2026-05-26 |  |
 | **[IsaacIPC: Coupling High-Fidelity Simulation and Realistic Rendering for Contact-Rich Robotic Systems](https://arxiv.org/abs/2605.24339v1)** | 2026-05-23 | <details><summary>This ...</summary><p>This is a tech report</p></details> |
 | **[Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2605.18431v2)** | 2026-05-19 |  |
 | **[Guided Reinforcement Learning for Omnidirectional 3D Jumping in Quadruped Robots](https://arxiv.org/abs/2507.16481v3)** | 2026-05-18 |  |
@@ -124,7 +125,6 @@ labels: documentation
 | **[A Proprioceptive-Only Benchmark for Quadruped State Estimation: ATE, RPE, and Runtime Trade-offs Between Filters and Smoothers](https://arxiv.org/abs/2605.11674v1)** | 2026-05-12 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Practice</p></details> |
 | **[Evaluation of an Actuated Spine in Agile Quadruped Locomotion](https://arxiv.org/abs/2605.07988v1)** | 2026-05-08 |  |
 | **[PEPA: a Persistently Autonomous Embodied Agent with Personalities](https://arxiv.org/abs/2603.00117v3)** | 2026-05-07 |  |
-| **[A Vision-Based Shared-Control Teleoperation Scheme for Controlling the Robotic Arm of a Four-Legged Robot](https://arxiv.org/abs/2508.14994v3)** | 2026-05-04 |  |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
