@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 28, 2026
+title: Latest 10 Papers - May 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Field Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Human-in-the-Loop Swarms: A Bionic Swarm Approach to Real-World Soil Mapping](https://arxiv.org/abs/2605.29091v1)** | 2026-05-27 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. Submitted to Advanced Intelligent Systems</p></details> |
 | **[Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements](https://arxiv.org/abs/2602.03209v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
 | **[Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions](https://arxiv.org/abs/2310.07844v2)** | 2026-05-13 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, published in 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan</p></details> |
 | **[aerial-autonomy-stack -- a Faster-than-real-time, Autopilot-agnostic, ROS2 Framework to Simulate and Deploy Perception-based Drones](https://arxiv.org/abs/2602.07264v2)** | 2026-05-02 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[MapForest: A Modular Field Robotics System for Forest Mapping and Invasive Species Localization](https://arxiv.org/abs/2603.22502v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 9 figures. Under review</p></details> |
 | **[Optimal Path Planning in Hostile Environments](https://arxiv.org/abs/2603.18958v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted for publication at ICAPS-2026 (25 pages, 6 figures)</p></details> |
 | **[AgriChrono: A Multi-modal Dataset Capturing Crop Growth and Lighting Variability with a Field Robot](https://arxiv.org/abs/2508.18694v3)** | 2026-03-17 | <details><summary>Keywo...</summary><p>Keywords: Agricultural Robotics, In-the-wild Dataset, 3D Reconstruction</p></details> |
-| **[COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](https://arxiv.org/abs/2603.10436v1)** | 2026-03-11 | <details><summary>Recen...</summary><p>Recently accepted at 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks ( IEEE WoWMoM 2026)</p></details> |
 
 ## Long Range Navigation
 | **Title** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: documentation
 ## Vision Based Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MARTIAN: A Rendering Framework for Aerial Mars Imagery from HiRISE Orbital Data](https://arxiv.org/abs/2605.29647v1)** | 2026-05-28 |  |
 | **[Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2604.26946v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026. Code: https://github.com/ZoeyZheng0/3-step-Nav</p></details> |
 | **[Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery](https://arxiv.org/abs/2603.20045v1)** | 2026-03-20 |  |
 | **[Scene Representation using 360° Saliency Graph and its Application in Vision-based Indoor Navigation](https://arxiv.org/abs/2603.20353v1)** | 2026-03-20 |  |
@@ -82,7 +83,6 @@ labels: documentation
 | **[Event-based Heterogeneous Information Processing for Online Vision-based Obstacle Detection and Localization](https://arxiv.org/abs/2601.13451v1)** | 2026-01-19 |  |
 | **[Lunar-G2R: Geometry-to-Reflectance Learning for High-Fidelity Lunar BRDF Estimation](https://arxiv.org/abs/2601.10449v1)** | 2026-01-15 | <details><summary>Data ...</summary><p>Data & code: https://clementinegrethen.github.io/publications/Lunar-G2R</p></details> |
 | **[Mobile Robot Localization Using a Novel Whisker-Like Sensor](https://arxiv.org/abs/2601.05612v1)** | 2026-01-09 |  |
-| **[MonoMPC: Monocular Vision Based Navigation with Learned Collision Model and Risk-Aware Model Predictive Control](https://arxiv.org/abs/2508.07387v3)** | 2025-11-26 |  |
 
 ## Zero shot object navigation
 | **Title** | **Date** | **Comment** |
@@ -101,6 +101,7 @@ labels: documentation
 ## embodied exploration
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Emergent Semantic Representations in World Models through Physical Interaction without Linguistic Supervision](https://arxiv.org/abs/2605.28865v1)** | 2026-05-22 | 10 pages, 3 figures |
 | **[TravExplorer: Cross-Floor Embodied Exploration via Traversability-Aware 3-D Planning](https://arxiv.org/abs/2605.19958v1)** | 2026-05-19 |  |
 | **[TwinOR: Photorealistic Digital Twins of Dynamic Operating Rooms for Embodied AI Research](https://arxiv.org/abs/2511.07412v2)** | 2026-04-16 |  |
 | **[Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration](https://arxiv.org/abs/2601.10744v2)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
@@ -110,7 +111,6 @@ labels: documentation
 | **[From Prompts to Worlds: How Users Iterate, Explore, and Make Sense of AI-Generated 3D Environments](https://arxiv.org/abs/2603.13233v1)** | 2026-01-24 |  |
 | **[GaussExplorer: 3D Gaussian Splatting for Embodied Exploration and Reasoning](https://arxiv.org/abs/2601.13132v1)** | 2026-01-19 | <details><summary>Proje...</summary><p>Project page: https://gaussexplorer.github.io/</p></details> |
 | **[ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay](https://arxiv.org/abs/2511.19033v1)** | 2025-11-24 | <details><summary>8 mai...</summary><p>8 main pages plus 13 pages Appendix</p></details> |
-| **[EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding](https://arxiv.org/abs/2412.04380v3)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by ICCV2025. Code: https://github.com/YkiWu/EmbodiedOcc</p></details> |
 
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
