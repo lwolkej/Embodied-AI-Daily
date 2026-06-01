@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 01, 2026
+title: Latest 10 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -59,6 +59,7 @@ labels: documentation
 ## Semantic Scene Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PhyDrawGen: Physically Grounded Diagram Generation from Natural Language](https://arxiv.org/abs/2605.30512v1)** | 2026-05-28 | <details><summary>9 fig...</summary><p>9 figures, 7 tables. Under review at EMNLP 2026</p></details> |
 | **[VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction](https://arxiv.org/abs/2602.13294v3)** | 2026-05-21 |  |
 | **[LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction](https://arxiv.org/abs/2605.13741v1)** | 2026-05-13 |  |
 | **[Distill, Diffuse, and Semanticize (DDS): Annotation-Free 3D Scene Understanding Based on Multi-Granularity Distillation and Graph-Diffusion-Based Segmentation](https://arxiv.org/abs/2605.08293v2)** | 2026-05-13 |  |
@@ -68,7 +69,6 @@ labels: documentation
 | **[RoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices](https://arxiv.org/abs/2604.19025v1)** | 2026-04-21 | <details><summary>23 pa...</summary><p>23 pages, including supplementary material. Accepted to the 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). Best Paper Nominee</p></details> |
 | **[ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps](https://arxiv.org/abs/2505.18675v3)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026, website: https://fscdc.github.io/ReasonMap/</p></details> |
 | **[Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving](https://arxiv.org/abs/2503.21449v3)** | 2026-02-27 |  |
-| **[SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis](https://arxiv.org/abs/2602.20079v1)** | 2026-02-23 |  |
 
 ## Vision Based Navigation
 | **Title** | **Date** | **Comment** |
@@ -115,6 +115,7 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots](https://arxiv.org/abs/2605.30849v1)** | 2026-05-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables; project page and videos available in the repository</p></details> |
 | **[Learning to Balance Motor Thermal Safety and Quadrupedal Locomotion Performance with Residual Policy](https://arxiv.org/abs/2605.27046v1)** | 2026-05-26 |  |
 | **[IsaacIPC: Coupling High-Fidelity Simulation and Realistic Rendering for Contact-Rich Robotic Systems](https://arxiv.org/abs/2605.24339v1)** | 2026-05-23 | <details><summary>This ...</summary><p>This is a tech report</p></details> |
 | **[Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2605.18431v2)** | 2026-05-19 |  |
@@ -124,7 +125,6 @@ labels: documentation
 | **[Robot Squid Game: Quadrupedal Locomotion for Traversing Narrow Tunnels](https://arxiv.org/abs/2605.13665v1)** | 2026-05-13 |  |
 | **[A Proprioceptive-Only Benchmark for Quadruped State Estimation: ATE, RPE, and Runtime Trade-offs Between Filters and Smoothers](https://arxiv.org/abs/2605.11674v1)** | 2026-05-12 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Practice</p></details> |
 | **[Evaluation of an Actuated Spine in Agile Quadruped Locomotion](https://arxiv.org/abs/2605.07988v1)** | 2026-05-08 |  |
-| **[PEPA: a Persistently Autonomous Embodied Agent with Personalities](https://arxiv.org/abs/2603.00117v3)** | 2026-05-07 |  |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
