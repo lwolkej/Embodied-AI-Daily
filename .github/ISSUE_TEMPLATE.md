@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 02, 2026
+title: Latest 10 Papers - June 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Autonomous Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards a General Intelligence and Interface for Wearable Health Data](https://arxiv.org/abs/2605.22759v1)** | 2026-05-21 |  |
+| **[Towards a General Intelligence and Interface for Wearable Health Data](https://arxiv.org/abs/2605.22759v2)** | 2026-05-29 |  |
 | **[DocOS: Towards Proactive Document-Guided Actions in GUI Agents](https://arxiv.org/abs/2605.18048v1)** | 2026-05-18 |  |
 | **[VULCAN: Vision-Language-Model Enhanced Multi-Agent Cooperative Navigation for Indoor Fire-Disaster Response](https://arxiv.org/abs/2604.12831v1)** | 2026-04-14 | <details><summary>INFOC...</summary><p>INFOCOM EIN Workshop 2026</p></details> |
 | **[MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization](https://arxiv.org/abs/2603.24382v1)** | 2026-03-25 |  |
@@ -49,6 +49,7 @@ labels: documentation
 ## Open Vocabulary Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://arxiv.org/abs/2606.01313v1)** | 2026-05-31 | <details><summary>21 pa...</summary><p>21 pages, 7 figures. ICML 2026</p></details> |
 | **[DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation](https://arxiv.org/abs/2603.28691v1)** | 2026-03-30 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Project page: https://coolmaoguo.github.io/drive-nav-page/</p></details> |
 | **[SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones](https://arxiv.org/abs/2509.18610v1)** | 2025-09-23 |  |
 | **[Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models](https://arxiv.org/abs/2408.11380v1)** | 2024-08-21 | <details><summary>Accep...</summary><p>Accepted at Advanced Robotics, website - https://haraduka.github.io/omnidirectional-vlm/</p></details> |
@@ -115,6 +116,8 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiNI-Q: A Miniature, Wire-Free Quadruped with Unbounded, Independently Actuated Leg Joints](https://arxiv.org/abs/2603.11537v2)** | 2026-05-31 | <details><summary>7 pag...</summary><p>7 pages, 11 figures. Submitted to the IEEE RAS Conference on Ubiquitous Robots (UR 2026)</p></details> |
+| **[TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions](https://arxiv.org/abs/2602.12724v3)** | 2026-05-30 |  |
 | **[High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots](https://arxiv.org/abs/2605.30849v1)** | 2026-05-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables; project page and videos available in the repository</p></details> |
 | **[Learning to Balance Motor Thermal Safety and Quadrupedal Locomotion Performance with Residual Policy](https://arxiv.org/abs/2605.27046v1)** | 2026-05-26 |  |
 | **[IsaacIPC: Coupling High-Fidelity Simulation and Realistic Rendering for Contact-Rich Robotic Systems](https://arxiv.org/abs/2605.24339v1)** | 2026-05-23 | <details><summary>This ...</summary><p>This is a tech report</p></details> |
@@ -123,8 +126,6 @@ labels: documentation
 | **[SuReNav: Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environments](https://arxiv.org/abs/2602.06807v2)** | 2026-05-16 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026. Code and videos are available at https://sure-nav.github.io/</p></details> |
 | **[Energy-Efficient Quadruped Locomotion with Compliant Feet](https://arxiv.org/abs/2605.14411v1)** | 2026-05-14 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, supplemental videos link is mentioned in the paper</p></details> |
 | **[Robot Squid Game: Quadrupedal Locomotion for Traversing Narrow Tunnels](https://arxiv.org/abs/2605.13665v1)** | 2026-05-13 |  |
-| **[A Proprioceptive-Only Benchmark for Quadruped State Estimation: ATE, RPE, and Runtime Trade-offs Between Filters and Smoothers](https://arxiv.org/abs/2605.11674v1)** | 2026-05-12 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Practice</p></details> |
-| **[Evaluation of an Actuated Spine in Agile Quadruped Locomotion](https://arxiv.org/abs/2605.07988v1)** | 2026-05-08 |  |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
