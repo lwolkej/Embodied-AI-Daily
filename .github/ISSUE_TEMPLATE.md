@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 03, 2026
+title: Latest 10 Papers - June 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -74,6 +74,7 @@ labels: documentation
 ## Vision Based Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation](https://arxiv.org/abs/2606.04111v1)** | 2026-06-02 |  |
 | **[MARTIAN: A Rendering Framework for Aerial Mars Imagery from HiRISE Orbital Data](https://arxiv.org/abs/2605.29647v1)** | 2026-05-28 |  |
 | **[Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2604.26946v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026. Code: https://github.com/ZoeyZheng0/3-step-Nav</p></details> |
 | **[Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery](https://arxiv.org/abs/2603.20045v1)** | 2026-03-20 |  |
@@ -83,7 +84,6 @@ labels: documentation
 | **[AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge](https://arxiv.org/abs/2602.13476v1)** | 2026-02-13 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 2 tables</p></details> |
 | **[Event-based Heterogeneous Information Processing for Online Vision-based Obstacle Detection and Localization](https://arxiv.org/abs/2601.13451v1)** | 2026-01-19 |  |
 | **[Lunar-G2R: Geometry-to-Reflectance Learning for High-Fidelity Lunar BRDF Estimation](https://arxiv.org/abs/2601.10449v1)** | 2026-01-15 | <details><summary>Data ...</summary><p>Data & code: https://clementinegrethen.github.io/publications/Lunar-G2R</p></details> |
-| **[Mobile Robot Localization Using a Novel Whisker-Like Sensor](https://arxiv.org/abs/2601.05612v1)** | 2026-01-09 |  |
 
 ## Zero shot object navigation
 | **Title** | **Date** | **Comment** |
