@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 08, 2026
+title: Latest 10 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -35,9 +35,9 @@ labels: documentation
 ## Long Range Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation](https://arxiv.org/abs/2605.07496v2)** | 2026-06-05 | <details><summary>Work ...</summary><p>Work in the progress. 16 pages, 13 figures</p></details> |
 | **[G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation](https://arxiv.org/abs/2605.25646v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[InFeR: Informed Failure Resilience in Learned Visual Navigation Control](https://arxiv.org/abs/2510.24680v2)** | 2026-05-18 |  |
-| **[PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation](https://arxiv.org/abs/2605.07496v1)** | 2026-05-08 | <details><summary>Work ...</summary><p>Work in the progress. 11 pages, 7 figures</p></details> |
 | **[Visual SLAM with DEM Anchoring for Lunar Surface Navigation](https://arxiv.org/abs/2603.17229v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted to IEEE Aerospace Conference 2026</p></details> |
 | **[Path-conditioned Reinforcement Learning-based Local Planning for Long-Range Navigation](https://arxiv.org/abs/2603.13888v1)** | 2026-03-14 |  |
 | **[Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research](https://arxiv.org/abs/2603.06608v1)** | 2026-02-19 |  |
@@ -60,6 +60,7 @@ labels: documentation
 ## Semantic Scene Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation](https://arxiv.org/abs/2606.06761v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to Robotics: Science and Systems (RSS) 2026</p></details> |
 | **[PhyDrawGen: Physically Grounded Diagram Generation from Natural Language](https://arxiv.org/abs/2605.30512v1)** | 2026-05-28 | <details><summary>9 fig...</summary><p>9 figures, 7 tables. Under review at EMNLP 2026</p></details> |
 | **[VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction](https://arxiv.org/abs/2602.13294v3)** | 2026-05-21 |  |
 | **[LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction](https://arxiv.org/abs/2605.13741v1)** | 2026-05-13 |  |
@@ -69,7 +70,6 @@ labels: documentation
 | **[GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](https://arxiv.org/abs/2604.19522v1)** | 2026-04-21 | 6 pages, 7 figures |
 | **[RoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices](https://arxiv.org/abs/2604.19025v1)** | 2026-04-21 | <details><summary>23 pa...</summary><p>23 pages, including supplementary material. Accepted to the 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). Best Paper Nominee</p></details> |
 | **[ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps](https://arxiv.org/abs/2505.18675v3)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026, website: https://fscdc.github.io/ReasonMap/</p></details> |
-| **[Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving](https://arxiv.org/abs/2503.21449v3)** | 2026-02-27 |  |
 
 ## Vision Based Navigation
 | **Title** | **Date** | **Comment** |
@@ -116,6 +116,8 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation](https://arxiv.org/abs/2606.07506v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This paper is submitted to Wiley Journal of Field Robotics</p></details> |
+| **[Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering](https://arxiv.org/abs/2606.07193v1)** | 2026-06-05 |  |
 | **[MiNI-Q: A Miniature, Wire-Free Quadruped with Unbounded, Independently Actuated Leg Joints](https://arxiv.org/abs/2603.11537v2)** | 2026-05-31 | <details><summary>7 pag...</summary><p>7 pages, 11 figures. Submitted to the IEEE RAS Conference on Ubiquitous Robots (UR 2026)</p></details> |
 | **[TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions](https://arxiv.org/abs/2602.12724v3)** | 2026-05-30 |  |
 | **[High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots](https://arxiv.org/abs/2605.30849v1)** | 2026-05-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables; project page and videos available in the repository</p></details> |
@@ -124,8 +126,6 @@ labels: documentation
 | **[Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2605.18431v2)** | 2026-05-19 |  |
 | **[Guided Reinforcement Learning for Omnidirectional 3D Jumping in Quadruped Robots](https://arxiv.org/abs/2507.16481v3)** | 2026-05-18 |  |
 | **[SuReNav: Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environments](https://arxiv.org/abs/2602.06807v2)** | 2026-05-16 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026. Code and videos are available at https://sure-nav.github.io/</p></details> |
-| **[Energy-Efficient Quadruped Locomotion with Compliant Feet](https://arxiv.org/abs/2605.14411v1)** | 2026-05-14 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, supplemental videos link is mentioned in the paper</p></details> |
-| **[Robot Squid Game: Quadrupedal Locomotion for Traversing Narrow Tunnels](https://arxiv.org/abs/2605.13665v1)** | 2026-05-13 |  |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
