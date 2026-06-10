@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 10, 2026
+title: Latest 10 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Autonomous Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A 185 TOPS/W/mm2 Bayesian Inference Engine with 640 aJ Write-Free FeFET GRNG for Uncertainty-Aware Aerial Search and Rescue](https://arxiv.org/abs/2606.10822v1)** | 2026-06-09 |  |
 | **[ATTAIN: Automated Exploit Failure Analysis through Trace-Driven Diff Analysis](https://arxiv.org/abs/2606.09060v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by Internetware2026</p></details> |
 | **[Towards a General Intelligence and Interface for Wearable Health Data](https://arxiv.org/abs/2605.22759v2)** | 2026-05-29 |  |
 | **[DocOS: Towards Proactive Document-Guided Actions in GUI Agents](https://arxiv.org/abs/2605.18048v1)** | 2026-05-18 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Autonomous Search for Sparsely Distributed Visual Phenomena through Environmental Context Modeling](https://arxiv.org/abs/2603.10174v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</p></details> |
 | **[Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents](https://arxiv.org/abs/2603.01416v1)** | 2026-03-02 |  |
 | **[Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application](https://arxiv.org/abs/2502.20326v2)** | 2026-02-16 | 22 Pages, 24 Figures |
-| **[SIGHT: Reinforcement Learning with Self-Evidence and Information-Gain Diverse Branching for Search Agent](https://arxiv.org/abs/2602.11551v1)** | 2026-02-12 |  |
 
 ## Field Robotics
 | **Title** | **Date** | **Comment** |
@@ -116,6 +116,7 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUIDE: Goal-Initialized Directional Understanding for End-to-End Visual Navigation](https://arxiv.org/abs/2606.10832v1)** | 2026-06-09 | <details><summary>https...</summary><p>https://guide-navigation.github.io/</p></details> |
 | **[Continual Quadruped Robots Coordination via Semantic Skill Discovery](https://arxiv.org/abs/2606.08102v1)** | 2026-06-06 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 11 tables. Project page: https://conquer-project.pages.dev/</p></details> |
 | **[Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation](https://arxiv.org/abs/2606.07506v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This paper is submitted to Wiley Journal of Field Robotics</p></details> |
 | **[Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering](https://arxiv.org/abs/2606.07193v1)** | 2026-06-05 |  |
@@ -125,7 +126,6 @@ labels: documentation
 | **[Learning to Balance Motor Thermal Safety and Quadrupedal Locomotion Performance with Residual Policy](https://arxiv.org/abs/2605.27046v1)** | 2026-05-26 |  |
 | **[IsaacIPC: Coupling High-Fidelity Simulation and Realistic Rendering for Contact-Rich Robotic Systems](https://arxiv.org/abs/2605.24339v1)** | 2026-05-23 | <details><summary>This ...</summary><p>This is a tech report</p></details> |
 | **[Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2605.18431v2)** | 2026-05-19 |  |
-| **[Guided Reinforcement Learning for Omnidirectional 3D Jumping in Quadruped Robots](https://arxiv.org/abs/2507.16481v3)** | 2026-05-18 |  |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
