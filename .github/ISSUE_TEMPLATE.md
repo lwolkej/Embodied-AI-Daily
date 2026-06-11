@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 11, 2026
+title: Latest 10 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Field Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cross-Modal Benchmarking for Robotic Perception in Natural Environments](https://arxiv.org/abs/2606.11563v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to the IEEE ICRA Workshop on Open Challenges for Rigorous Robot Perception 2026</p></details> |
 | **[Human-in-the-Loop Swarms: A Bionic Swarm Approach to Real-World Soil Mapping](https://arxiv.org/abs/2605.29091v1)** | 2026-05-27 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. Submitted to Advanced Intelligent Systems</p></details> |
 | **[Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements](https://arxiv.org/abs/2602.03209v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
 | **[Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions](https://arxiv.org/abs/2310.07844v2)** | 2026-05-13 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, published in 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[CableTract: A Co-Designed Cable-Driven Field Robot for Low-Compaction, Off-Grid Capable Agriculture](https://arxiv.org/abs/2604.09938v1)** | 2026-04-10 |  |
 | **[MapForest: A Modular Field Robotics System for Forest Mapping and Invasive Species Localization](https://arxiv.org/abs/2603.22502v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 9 figures. Under review</p></details> |
 | **[Optimal Path Planning in Hostile Environments](https://arxiv.org/abs/2603.18958v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted for publication at ICAPS-2026 (25 pages, 6 figures)</p></details> |
-| **[AgriChrono: A Multi-modal Dataset Capturing Crop Growth and Lighting Variability with a Field Robot](https://arxiv.org/abs/2508.18694v3)** | 2026-03-17 | <details><summary>Keywo...</summary><p>Keywords: Agricultural Robotics, In-the-wild Dataset, 3D Reconstruction</p></details> |
 
 ## Long Range Navigation
 | **Title** | **Date** | **Comment** |
@@ -74,6 +74,7 @@ labels: documentation
 ## Vision Based Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAFER-Nav: Enhancing Safety for Visual Robot Navigation via Segmentation-Aware Fine-Tuning](https://arxiv.org/abs/2606.11636v1)** | 2026-06-10 |  |
 | **[AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation](https://arxiv.org/abs/2606.04111v1)** | 2026-06-02 |  |
 | **[MARTIAN: A Rendering Framework for Aerial Mars Imagery from HiRISE Orbital Data](https://arxiv.org/abs/2605.29647v1)** | 2026-05-28 |  |
 | **[Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2604.26946v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026. Code: https://github.com/ZoeyZheng0/3-step-Nav</p></details> |
@@ -83,7 +84,6 @@ labels: documentation
 | **[Hybrid F' and ROS2 Architecture for Vision-Based Autonomous Flight: Design and Experimental Validation](https://arxiv.org/abs/2602.15398v1)** | 2026-02-17 | <details><summary>Paper...</summary><p>Paper accepted to ICIT 2026</p></details> |
 | **[AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge](https://arxiv.org/abs/2602.13476v1)** | 2026-02-13 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 2 tables</p></details> |
 | **[Event-based Heterogeneous Information Processing for Online Vision-based Obstacle Detection and Localization](https://arxiv.org/abs/2601.13451v1)** | 2026-01-19 |  |
-| **[Lunar-G2R: Geometry-to-Reflectance Learning for High-Fidelity Lunar BRDF Estimation](https://arxiv.org/abs/2601.10449v1)** | 2026-01-15 | <details><summary>Data ...</summary><p>Data & code: https://clementinegrethen.github.io/publications/Lunar-G2R</p></details> |
 
 ## Zero shot object navigation
 | **Title** | **Date** | **Comment** |
@@ -116,8 +116,9 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continual Quadruped Robots Coordination via Semantic Skill Discovery](https://arxiv.org/abs/2606.08102v2)** | 2026-06-10 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 11 tables. Project page: https://conquer-project.pages.dev/</p></details> |
+| **[Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatial Intelligence Benchmark Construction](https://arxiv.org/abs/2606.11909v1)** | 2026-06-10 |  |
 | **[GUIDE: Goal-Initialized Directional Understanding for End-to-End Visual Navigation](https://arxiv.org/abs/2606.10832v1)** | 2026-06-09 | <details><summary>https...</summary><p>https://guide-navigation.github.io/</p></details> |
-| **[Continual Quadruped Robots Coordination via Semantic Skill Discovery](https://arxiv.org/abs/2606.08102v1)** | 2026-06-06 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 11 tables. Project page: https://conquer-project.pages.dev/</p></details> |
 | **[Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation](https://arxiv.org/abs/2606.07506v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This paper is submitted to Wiley Journal of Field Robotics</p></details> |
 | **[Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering](https://arxiv.org/abs/2606.07193v1)** | 2026-06-05 |  |
 | **[MiNI-Q: A Miniature, Wire-Free Quadruped with Unbounded, Independently Actuated Leg Joints](https://arxiv.org/abs/2603.11537v2)** | 2026-05-31 | <details><summary>7 pag...</summary><p>7 pages, 11 figures. Submitted to the IEEE RAS Conference on Ubiquitous Robots (UR 2026)</p></details> |
@@ -125,7 +126,6 @@ labels: documentation
 | **[High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots](https://arxiv.org/abs/2605.30849v1)** | 2026-05-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables; project page and videos available in the repository</p></details> |
 | **[Learning to Balance Motor Thermal Safety and Quadrupedal Locomotion Performance with Residual Policy](https://arxiv.org/abs/2605.27046v1)** | 2026-05-26 |  |
 | **[IsaacIPC: Coupling High-Fidelity Simulation and Realistic Rendering for Contact-Rich Robotic Systems](https://arxiv.org/abs/2605.24339v1)** | 2026-05-23 | <details><summary>This ...</summary><p>This is a tech report</p></details> |
-| **[Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2605.18431v2)** | 2026-05-19 |  |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
