@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 15, 2026
+title: Latest 10 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -88,13 +88,13 @@ labels: documentation
 ## Zero shot object navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](https://arxiv.org/abs/2512.21201v3)** | 2026-06-12 |  |
 | **[TravExplorer: Cross-Floor Embodied Exploration via Traversability-Aware 3-D Planning](https://arxiv.org/abs/2605.19958v1)** | 2026-05-19 |  |
 | **[MORN: Metacognitive Object-Goal Regulation for Resource-Rational Long-Horizon Navigation](https://arxiv.org/abs/2605.16932v1)** | 2026-05-16 |  |
 | **[ConsistNav: Closing the Action Consistency Gap in Zero-Shot Object Navigation with Semantic Executive Control](https://arxiv.org/abs/2605.09869v2)** | 2026-05-15 | 13 pages, 5 figures |
 | **[TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](https://arxiv.org/abs/2605.01700v1)** | 2026-05-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[ReMemNav: A Rethinking and Memory-Augmented Framework for Zero-Shot Object Navigation](https://arxiv.org/abs/2603.26788v2)** | 2026-04-07 | 8 pages, 5 figures |
 | **[DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation](https://arxiv.org/abs/2510.16518v2)** | 2026-03-30 |  |
-| **[Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](https://arxiv.org/abs/2512.21201v2)** | 2026-03-24 |  |
 | **[AERR-Nav: Adaptive Exploration-Recovery-Reminiscing Strategy for Zero-Shot Object Navigation](https://arxiv.org/abs/2603.17712v1)** | 2026-03-18 |  |
 | **[3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting](https://arxiv.org/abs/2602.12159v1)** | 2026-02-12 |  |
 | **[USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation](https://arxiv.org/abs/2602.00708v2)** | 2026-02-03 |  |
@@ -116,6 +116,7 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kine2Go: Kinematic dataset for the Unitree Go2 robot with diverse gaits and motions](https://arxiv.org/abs/2606.14433v1)** | 2026-06-12 | 9 pages, 6 figures |
 | **[Redesigning Regularization for Effective Policy Smoothing](https://arxiv.org/abs/2606.13169v1)** | 2026-06-11 | submitted to RA-L |
 | **[Y-BotFrame: An Extensible Embodied Agent Framework for Quadruped Robot Assistants](https://arxiv.org/abs/2606.13049v1)** | 2026-06-11 |  |
 | **[Continual Quadruped Robots Coordination via Semantic Skill Discovery](https://arxiv.org/abs/2606.08102v2)** | 2026-06-10 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 11 tables. Project page: https://conquer-project.pages.dev/</p></details> |
@@ -125,7 +126,6 @@ labels: documentation
 | **[Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering](https://arxiv.org/abs/2606.07193v1)** | 2026-06-05 |  |
 | **[MiNI-Q: A Miniature, Wire-Free Quadruped with Unbounded, Independently Actuated Leg Joints](https://arxiv.org/abs/2603.11537v2)** | 2026-05-31 | <details><summary>7 pag...</summary><p>7 pages, 11 figures. Submitted to the IEEE RAS Conference on Ubiquitous Robots (UR 2026)</p></details> |
 | **[TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions](https://arxiv.org/abs/2602.12724v3)** | 2026-05-30 |  |
-| **[High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots](https://arxiv.org/abs/2605.30849v1)** | 2026-05-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables; project page and videos available in the repository</p></details> |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
