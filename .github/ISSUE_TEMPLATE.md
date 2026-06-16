@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 16, 2026
+title: Latest 10 Papers - June 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Autonomous Search
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A 185 TOPS/W/mm2 Bayesian Inference Engine with 640 aJ Write-Free FeFET GRNG for Uncertainty-Aware Aerial Search and Rescue](https://arxiv.org/abs/2606.10822v1)** | 2026-06-09 |  |
+| **[A 185 TOPS/W/mm2 Bayesian Inference Engine with 640 aJ Write-Free FeFET GRNG for Uncertainty-Aware Aerial Search and Rescue](https://arxiv.org/abs/2606.10822v2)** | 2026-06-14 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)</p></details> |
 | **[ATTAIN: Automated Exploit Failure Analysis through Trace-Driven Diff Analysis](https://arxiv.org/abs/2606.09060v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by Internetware2026</p></details> |
 | **[Towards a General Intelligence and Interface for Wearable Health Data](https://arxiv.org/abs/2605.22759v2)** | 2026-05-29 |  |
 | **[DocOS: Towards Proactive Document-Guided Actions in GUI Agents](https://arxiv.org/abs/2605.18048v1)** | 2026-05-18 |  |
@@ -21,6 +21,7 @@ labels: documentation
 ## Field Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GenZ-LIO: Generalizable LiDAR-Inertial Odometry Beyond Confined--Open Boundaries](https://arxiv.org/abs/2603.16273v2)** | 2026-06-15 | 21 pages, 12 figures |
 | **[Cross-Modal Benchmarking for Robotic Perception in Natural Environments](https://arxiv.org/abs/2606.11563v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to the IEEE ICRA Workshop on Open Challenges for Rigorous Robot Perception 2026</p></details> |
 | **[Human-in-the-Loop Swarms: A Bionic Swarm Approach to Real-World Soil Mapping](https://arxiv.org/abs/2605.29091v1)** | 2026-05-27 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. Submitted to Advanced Intelligent Systems</p></details> |
 | **[Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements](https://arxiv.org/abs/2602.03209v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting](https://arxiv.org/abs/2604.11992v1)** | 2026-04-13 |  |
 | **[CableTract: A Co-Designed Cable-Driven Field Robot for Low-Compaction, Off-Grid Capable Agriculture](https://arxiv.org/abs/2604.09938v1)** | 2026-04-10 |  |
 | **[MapForest: A Modular Field Robotics System for Forest Mapping and Invasive Species Localization](https://arxiv.org/abs/2603.22502v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 9 figures. Under review</p></details> |
-| **[Optimal Path Planning in Hostile Environments](https://arxiv.org/abs/2603.18958v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted for publication at ICAPS-2026 (25 pages, 6 figures)</p></details> |
 
 ## Long Range Navigation
 | **Title** | **Date** | **Comment** |
@@ -116,6 +116,8 @@ labels: documentation
 ## quadruped robots
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models](https://arxiv.org/abs/2606.16902v1)** | 2026-06-15 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 15 tables. Project page: https://ndb796.github.io/BinaryTracking ; Code and dataset: https://github.com/ndb796/BinaryTracking</p></details> |
+| **[SemGeoNav:A Safety-Guided Visual Navigation Approach with Semantic Reasoning and Geometric Planning](https://arxiv.org/abs/2606.16400v1)** | 2026-06-15 | <details><summary>The p...</summary><p>The paper has been accepted by ICGNC 2026</p></details> |
 | **[Kine2Go: Kinematic dataset for the Unitree Go2 robot with diverse gaits and motions](https://arxiv.org/abs/2606.14433v1)** | 2026-06-12 | 9 pages, 6 figures |
 | **[Redesigning Regularization for Effective Policy Smoothing](https://arxiv.org/abs/2606.13169v1)** | 2026-06-11 | submitted to RA-L |
 | **[Y-BotFrame: An Extensible Embodied Agent Framework for Quadruped Robot Assistants](https://arxiv.org/abs/2606.13049v1)** | 2026-06-11 |  |
@@ -124,8 +126,6 @@ labels: documentation
 | **[GUIDE: Goal-Initialized Directional Understanding for End-to-End Visual Navigation](https://arxiv.org/abs/2606.10832v1)** | 2026-06-09 | <details><summary>https...</summary><p>https://guide-navigation.github.io/</p></details> |
 | **[Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation](https://arxiv.org/abs/2606.07506v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This paper is submitted to Wiley Journal of Field Robotics</p></details> |
 | **[Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering](https://arxiv.org/abs/2606.07193v1)** | 2026-06-05 |  |
-| **[MiNI-Q: A Miniature, Wire-Free Quadruped with Unbounded, Independently Actuated Leg Joints](https://arxiv.org/abs/2603.11537v2)** | 2026-05-31 | <details><summary>7 pag...</summary><p>7 pages, 11 figures. Submitted to the IEEE RAS Conference on Ubiquitous Robots (UR 2026)</p></details> |
-| **[TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions](https://arxiv.org/abs/2602.12724v3)** | 2026-05-30 |  |
 
 ## traversability mapping
 | **Title** | **Date** | **Comment** |
