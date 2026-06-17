@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 17, 2026
+title: Latest 10 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Field Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So](https://arxiv.org/abs/2606.18144v1)** | 2026-06-16 |  |
 | **[GenZ-LIO: Generalizable LiDAR-Inertial Odometry Beyond Confined--Open Boundaries](https://arxiv.org/abs/2603.16273v2)** | 2026-06-15 | 21 pages, 12 figures |
 | **[Cross-Modal Benchmarking for Robotic Perception in Natural Environments](https://arxiv.org/abs/2606.11563v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to the IEEE ICRA Workshop on Open Challenges for Rigorous Robot Perception 2026</p></details> |
 | **[Human-in-the-Loop Swarms: A Bionic Swarm Approach to Real-World Soil Mapping](https://arxiv.org/abs/2605.29091v1)** | 2026-05-27 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. Submitted to Advanced Intelligent Systems</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[To Do or Not to Do: Ensuring the Safety of Visuomotor Policies Learned from Demonstrations](https://arxiv.org/abs/2605.01201v1)** | 2026-05-02 |  |
 | **[ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting](https://arxiv.org/abs/2604.11992v1)** | 2026-04-13 |  |
 | **[CableTract: A Co-Designed Cable-Driven Field Robot for Low-Compaction, Off-Grid Capable Agriculture](https://arxiv.org/abs/2604.09938v1)** | 2026-04-10 |  |
-| **[MapForest: A Modular Field Robotics System for Forest Mapping and Invasive Species Localization](https://arxiv.org/abs/2603.22502v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 9 figures. Under review</p></details> |
 
 ## Long Range Navigation
 | **Title** | **Date** | **Comment** |
@@ -74,6 +74,8 @@ labels: documentation
 ## Vision Based Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation](https://arxiv.org/abs/2606.17340v1)** | 2026-06-15 |  |
+| **[VISTA: Scale-Aware Visual Navigation via Action History Conditioning](https://arxiv.org/abs/2606.17294v1)** | 2026-06-15 |  |
 | **[SAFER-Nav: Enhancing Safety for Visual Robot Navigation via Segmentation-Aware Fine-Tuning](https://arxiv.org/abs/2606.11636v1)** | 2026-06-10 |  |
 | **[AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation](https://arxiv.org/abs/2606.04111v1)** | 2026-06-02 |  |
 | **[MARTIAN: A Rendering Framework for Aerial Mars Imagery from HiRISE Orbital Data](https://arxiv.org/abs/2605.29647v1)** | 2026-05-28 |  |
@@ -82,8 +84,6 @@ labels: documentation
 | **[Scene Representation using 360° Saliency Graph and its Application in Vision-based Indoor Navigation](https://arxiv.org/abs/2603.20353v1)** | 2026-03-20 |  |
 | **[EndoSERV: A Vision-based Endoluminal Robot Navigation System](https://arxiv.org/abs/2603.08324v1)** | 2026-03-09 |  |
 | **[Hybrid F' and ROS2 Architecture for Vision-Based Autonomous Flight: Design and Experimental Validation](https://arxiv.org/abs/2602.15398v1)** | 2026-02-17 | <details><summary>Paper...</summary><p>Paper accepted to ICIT 2026</p></details> |
-| **[AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge](https://arxiv.org/abs/2602.13476v1)** | 2026-02-13 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 2 tables</p></details> |
-| **[Event-based Heterogeneous Information Processing for Online Vision-based Obstacle Detection and Localization](https://arxiv.org/abs/2601.13451v1)** | 2026-01-19 |  |
 
 ## Zero shot object navigation
 | **Title** | **Date** | **Comment** |
