@@ -40,19 +40,27 @@ with open("README.md", "r") as f:
 logging.info("获取关键词列表")
 
 keywords = [
-    "Autonomous Search",
-    "Field Robotics",
+    # === 原始核心关键词 ===
     "Long Range Navigation",
-    "Open Vocabulary Navigation",
-    "Semantic Scene Understanding",
     "Vision Based Navigation",
-    "Zero shot object navigation",
-    "embodied exploration",
     "quadruped robots",
-    "traversability mapping"
-] # TODO add more keywords
+    "traversability mapping",
 
-max_result = 20  # maximum query results from arXiv API for each keyword
+    # === 新增：主动感知与交互式规划 (Active & Interactive) ===
+    "Active Perception",                # 主动感知（如主动调整视角获取信息）
+    "Interactive Navigation",           # 交互式导航（与环境发生物理接触或避障博弈）
+    "Information-driven Path Planning", # 信息驱动的路径规划（走向能获得最多未知信息的地方）
+    "Safety-aware Active Exploration",  # 考虑安全的主动探索
+
+    # === 新增：四足特有姿态与越野规划 (Quadruped Specifics) ===
+    "Agile Locomotion",                 # 敏捷运动（强调复杂地形下的机动性）
+
+    # === 新增：基于学习与潜空间的高效表征 (Learning & Latent Space) ===
+    "Latent Space Planning",            # 潜空间规划（在神经网络隐层中做特征演化或寻路）
+    "Implicit Terrain Representation",  # 隐式地形表征（用轻量网络记忆地形而非大体积点云网格）
+]
+
+max_result = 15  # maximum query results from arXiv API for each keyword
 issues_result = 10  # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
