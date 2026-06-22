@@ -49,8 +49,6 @@ keywords = [
     # === 新增：主动感知与交互式规划 (Active & Interactive) ===
     "Active Perception",                # 主动感知（如主动调整视角获取信息）
     "Interactive Navigation",           # 交互式导航（与环境发生物理接触或避障博弈）
-    "Information-driven Path Planning", # 信息驱动的路径规划（走向能获得最多未知信息的地方）
-    "Safety-aware Active Exploration",  # 考虑安全的主动探索
 
     # === 新增：四足特有姿态与越野规划 (Quadruped Specifics) ===
     "Agile Locomotion",                 # 敏捷运动（强调复杂地形下的机动性）
