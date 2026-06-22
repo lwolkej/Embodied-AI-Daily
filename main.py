@@ -52,9 +52,6 @@ keywords = [
 
     # === 新增：四足特有姿态与越野规划 (Quadruped Specifics) ===
     "Agile Locomotion",                 # 敏捷运动（强调复杂地形下的机动性）
-
-    # === 新增：基于学习与潜空间的高效表征 (Learning & Latent Space) ===
-    "Latent Space Planning",            # 潜空间规划（在神经网络隐层中做特征演化或寻路）
 ]
 
 max_result = 15  # maximum query results from arXiv API for each keyword
