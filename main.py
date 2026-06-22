@@ -55,7 +55,6 @@ keywords = [
 
     # === 新增：基于学习与潜空间的高效表征 (Learning & Latent Space) ===
     "Latent Space Planning",            # 潜空间规划（在神经网络隐层中做特征演化或寻路）
-    "Implicit Terrain Representation",  # 隐式地形表征（用轻量网络记忆地形而非大体积点云网格）
 ]
 
 max_result = 15  # maximum query results from arXiv API for each keyword
