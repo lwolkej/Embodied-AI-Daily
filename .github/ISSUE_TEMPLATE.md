@@ -116,8 +116,3 @@ labels: documentation
 | **[Procedure Planning in Instructional Videos via Contextual Modeling and Model-based Policy Learning](https://arxiv.org/abs/2110.01770v2)** | 2021-10-08 | ICCV 2021 Oral |
 | **[Dream and Search to Control: Latent Space Planning for Continuous Control](https://arxiv.org/abs/2010.09832v1)** | 2020-10-19 | Preprint |
 
-## Implicit Terrain Representation
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Explicit Stair Geometry Conditioning for Robust Humanoid Locomotion](https://arxiv.org/abs/2605.09944v1)** | 2026-05-11 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables</p></details> |
-
