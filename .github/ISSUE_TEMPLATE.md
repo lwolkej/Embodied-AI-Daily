@@ -102,17 +102,3 @@ labels: documentation
 | **[M-SEVIQ: A Multi-band Stereo Event Visual-Inertial Quadruped-based Dataset for Perception under Rapid Motion and Challenging Illumination](https://arxiv.org/abs/2601.02777v1)** | 2026-01-06 | 6 pages, 7 figures |
 | **[PPL: Point Cloud Supervised Proprioceptive Locomotion Reinforcement Learning for Legged Robots in Crawl Spaces](https://arxiv.org/abs/2508.09950v2)** | 2025-12-04 | Accepted by RA-L |
 
-## Latent Space Planning
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories](https://arxiv.org/abs/2605.10840v3)** | 2026-06-16 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 8 tables. Code: https://github.com/YeungYathin/Clin-JEPA</p></details> |
-| **[Learning Unions of Convex Sets via Invertible Latent Decomposition for Path Planning](https://arxiv.org/abs/2606.12027v1)** | 2026-06-10 |  |
-| **[When Does LeJEPA Learn a World Model?](https://arxiv.org/abs/2605.26379v1)** | 2026-05-25 |  |
-| **[Manifold-Constrained MPPI: Real-Time Sampling-Based Control Under Hard Constraints](https://arxiv.org/abs/2605.24813v1)** | 2026-05-24 | <details><summary>Inter...</summary><p>International Journal of Control, Automation, and Systems</p></details> |
-| **[Hypothesis Network Planned Exploration for Rapid Meta-Reinforcement Learning Adaptation](https://arxiv.org/abs/2311.03701v2)** | 2025-08-30 |  |
-| **[LaPlaSS: Latent Space Planning for Stochastic Systems](https://arxiv.org/abs/2404.07063v1)** | 2024-04-10 |  |
-| **[Latent Space Planning for Multi-Object Manipulation with Environment-Aware Relational Classifiers](https://arxiv.org/abs/2305.10857v3)** | 2024-01-28 | <details><summary>Accep...</summary><p>Accepted at IEEE Transactions on Robotics (T-RO). arXiv admin note: text overlap with arXiv:2209.11943</p></details> |
-| **[Plausibility-Based Heuristics for Latent Space Classical Planning](https://arxiv.org/abs/2306.11434v1)** | 2023-06-20 |  |
-| **[Procedure Planning in Instructional Videos via Contextual Modeling and Model-based Policy Learning](https://arxiv.org/abs/2110.01770v2)** | 2021-10-08 | ICCV 2021 Oral |
-| **[Dream and Search to Control: Latent Space Planning for Continuous Control](https://arxiv.org/abs/2010.09832v1)** | 2020-10-19 | Preprint |
-
