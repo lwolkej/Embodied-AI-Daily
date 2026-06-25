@@ -18,61 +18,19 @@ labels: documentation
 | **[Enhancing Navigation Efficiency of Quadruped Robots via Leveraging Personal Transportation Platforms](https://arxiv.org/abs/2602.03397v2)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICRA 2025. Project page: https://sgvr.kaist.ac.kr/~msyoon/papers/ICRA25/</p></details> |
 | **[SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://arxiv.org/abs/2512.10046v3)** | 2026-01-23 | <details><summary>Confe...</summary><p>Conference: NeurIPS 2025 (main)</p></details> |
 
-## Vision Based Navigation
+## Long Distance Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation](https://arxiv.org/abs/2606.17340v1)** | 2026-06-15 |  |
-| **[VISTA: Scale-Aware Visual Navigation via Action History Conditioning](https://arxiv.org/abs/2606.17294v1)** | 2026-06-15 |  |
-| **[SAFER-Nav: Enhancing Safety for Visual Robot Navigation via Segmentation-Aware Fine-Tuning](https://arxiv.org/abs/2606.11636v1)** | 2026-06-10 |  |
-| **[AgenticDiffusion: Agentic Diffusion-based Path Planning for Vision-Based UAV Navigation](https://arxiv.org/abs/2606.04111v1)** | 2026-06-02 |  |
-| **[MARTIAN: A Rendering Framework for Aerial Mars Imagery from HiRISE Orbital Data](https://arxiv.org/abs/2605.29647v1)** | 2026-05-28 |  |
-| **[Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2604.26946v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026. Code: https://github.com/ZoeyZheng0/3-step-Nav</p></details> |
-| **[Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery](https://arxiv.org/abs/2603.20045v1)** | 2026-03-20 |  |
-| **[Scene Representation using 360° Saliency Graph and its Application in Vision-based Indoor Navigation](https://arxiv.org/abs/2603.20353v1)** | 2026-03-20 |  |
-| **[EndoSERV: A Vision-based Endoluminal Robot Navigation System](https://arxiv.org/abs/2603.08324v1)** | 2026-03-09 |  |
-| **[Hybrid F' and ROS2 Architecture for Vision-Based Autonomous Flight: Design and Experimental Validation](https://arxiv.org/abs/2602.15398v1)** | 2026-02-17 | <details><summary>Paper...</summary><p>Paper accepted to ICIT 2026</p></details> |
-
-## quadruped robots
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Gain Tuning Is Not What You Need: Reward Gain Adaptation for Constrained Locomotion Learning](https://arxiv.org/abs/2510.10759v2)** | 2026-06-21 | <details><summary>RSS 2...</summary><p>RSS 2025, compressed version</p></details> |
-| **[KiVi: Kinesthetic-Visuospatial Integration for Dynamic and Safe Egocentric Legged Locomotion](https://arxiv.org/abs/2509.23650v3)** | 2026-06-20 | <details><summary>\c{op...</summary><p>\c{opyright} 20XX IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Long-Distance Real-World Navigation of the Legged-Wheeled Robot Go2-W Using Deep Reinforcement Learning](https://arxiv.org/abs/2606.21387v1)** | 2026-06-19 |  |
-| **[RogueRover: Autonomous Rogue Device Localization for Incident Response](https://arxiv.org/abs/2606.21264v1)** | 2026-06-19 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 2 tables. Code and data are available in the accompanying artifact repository</p></details> |
-| **[APEX: Action Priors Enable Efficient Exploration for Robust Motion Tracking on Legged Robots](https://arxiv.org/abs/2505.10022v4)** | 2026-06-19 | <details><summary>\c{op...</summary><p>\c{opyright} 20XX IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[ForEnt: A Multi-Modal Dataset for Characterizing Quadruped Robot Entrapments in Forest Environments](https://arxiv.org/abs/2606.19675v1)** | 2026-06-18 | 8 pages, 7 figures |
-| **[SCAN-Planner: Spatial Collision-Aware Local Planning for Route-Guided Long-Range Quadruped Navigation](https://arxiv.org/abs/2606.19555v1)** | 2026-06-17 |  |
-| **[Sensor Configuration Matters: A Systematic Evaluation of Multimodal SLAM on Quadruped Robots](https://arxiv.org/abs/2606.19067v1)** | 2026-06-17 |  |
-| **[ZiMPedance: Impedance-Aware ZMP Modeling and Control for Payload Carrying with Quadruped Robots](https://arxiv.org/abs/2606.18883v1)** | 2026-06-17 |  |
-| **[Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models](https://arxiv.org/abs/2606.16902v1)** | 2026-06-15 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 15 tables. Project page: https://ndb796.github.io/BinaryTracking ; Code and dataset: https://github.com/ndb796/BinaryTracking</p></details> |
-
-## traversability mapping
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[FlatLands: Generative Floormap Completion From a Single Egocentric View](https://arxiv.org/abs/2603.16016v1)** | 2026-03-16 | Under review |
-| **[Seeing Where to Deploy: Metric RGB-Based Traversability Analysis for Aerial-to-Ground Hidden Space Inspection](https://arxiv.org/abs/2603.14639v1)** | 2026-03-15 |  |
-| **[STONE Dataset: A Scalable Multi-Modal Surround-View 3D Traversability Dataset for Off-Road Robot Navigation](https://arxiv.org/abs/2603.09175v2)** | 2026-03-12 | ICRA 2026 |
-| **[SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots](https://arxiv.org/abs/2512.02851v3)** | 2025-12-08 | <details><summary>This ...</summary><p>This work has been submitted for publication and is currently under review</p></details> |
-| **[Real-time Spatial-temporal Traversability Assessment via Feature-based Sparse Gaussian Process](https://arxiv.org/abs/2503.04134v2)** | 2025-10-18 | accepted by IROS2025 |
-| **[ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments](https://arxiv.org/abs/2508.19131v2)** | 2025-10-17 |  |
-| **[Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing](https://arxiv.org/abs/2508.16504v1)** | 2025-08-22 |  |
-| **[GND: Global Navigation Dataset with Multi-Modal Perception and Multi-Category Traversability in Outdoor Campus Environments](https://arxiv.org/abs/2409.14262v3)** | 2025-03-05 |  |
+| **[Semantic Audio-Visual Navigation in Continuous Environments](https://arxiv.org/abs/2603.19660v1)** | 2026-03-20 | <details><summary>This ...</summary><p>This paper has been accepted to CVPR 2026</p></details> |
+| **["Hi AirStar, Guide Me to the Badminton Court."](https://arxiv.org/abs/2507.04430v1)** | 2025-07-06 |  |
+| **[VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation](https://arxiv.org/abs/2506.16703v1)** | 2025-06-20 | <details><summary>accep...</summary><p>accepted by IROS 2025</p></details> |
+| **[KiteRunner: Language-Driven Cooperative Local-Global Navigation Policy with UAV Mapping in Outdoor Environments](https://arxiv.org/abs/2503.08330v1)** | 2025-03-11 |  |
 | **[Dual-BEV Nav: Dual-layer BEV-based Heuristic Path Planning for Robotic Navigation in Unstructured Outdoor Environments](https://arxiv.org/abs/2501.18351v1)** | 2025-01-30 |  |
-| **[TRIP: Terrain Traversability Mapping With Risk-Aware Prediction for Enhanced Online Quadrupedal Robot Navigation](https://arxiv.org/abs/2411.17134v1)** | 2024-11-26 |  |
-
-## Active Perception
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Learning to See While Learning to Act: Diffusion Models for Active Perception in Robot Imitation](https://arxiv.org/abs/2606.23625v1)** | 2026-06-22 | <details><summary>Proje...</summary><p>Project website: see2act.github.io</p></details> |
-| **[GeoVista: Visually Grounded Active Perception for Vision-Language Understanding of Ultra-High-Resolution Remote Sensing Images](https://arxiv.org/abs/2605.14475v2)** | 2026-06-21 |  |
-| **[Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation](https://arxiv.org/abs/2606.20491v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
-| **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code and models: https://github.com/harryhsing/omniagent</p></details> |
-| **[GCNGrasp-VP: Affordance-Guided View Planning for Efficient Task-Oriented Grasping](https://arxiv.org/abs/2606.19091v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to IROS 2026</p></details> |
-| **[HALOMI: Learning Humanoid Loco-Manipulation with Active Perception from Human Demonstrations](https://arxiv.org/abs/2606.18772v1)** | 2026-06-17 |  |
-| **[FLAP: FOV-Constrained Active Perception Planning for Prior-Map-Free 3D Navigation](https://arxiv.org/abs/2606.17630v1)** | 2026-06-16 | 18 pages, 19 figures |
-| **[Exact, Efficient, and Safe Occlusion-Aware Planning Using AH-Polyhedrons](https://arxiv.org/abs/2606.15046v1)** | 2026-06-13 | 8 pages, 3 figures |
-| **[ScoutVLA: UAV-Centric Active Perception via a Dual-Expert VLA Model for Open-World Embodied Question Answering](https://arxiv.org/abs/2606.14772v1)** | 2026-06-09 |  |
-| **[ACTIVE-o3: Empowering MLLMs with Active Perception via Pure Reinforcement Learning](https://arxiv.org/abs/2505.21457v2)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Project page: https://aim-uofa.github.io/ACTIVE-o3</p></details> |
+| **[Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning](https://arxiv.org/abs/2411.07760v1)** | 2024-11-12 | <details><summary>Under...</summary><p>Under review. Code will be released upon acceptance</p></details> |
+| **[A Combinatorial Semi-Bandit Approach to Charging Station Selection for Electric Vehicles](https://arxiv.org/abs/2301.07156v1)** | 2023-01-17 |  |
+| **[Visually Grounded Task and Motion Planning for Mobile Manipulation](https://arxiv.org/abs/2202.10667v2)** | 2022-02-24 | <details><summary>To be...</summary><p>To be published in IEEE International Conference on Robotics and Automation (ICRA), May 23-27, 2022</p></details> |
+| **[Optimal Any-Angle Pathfinding on a Sphere](https://arxiv.org/abs/2004.12781v2)** | 2020-11-02 | <details><summary>29 pa...</summary><p>29 pages, 19 figures, 3 tables</p></details> |
+| **[Overcoming the Challenges of Solar Rover Autonomy: Enabling Long-Duration Planetary Navigation](https://arxiv.org/abs/1805.05451v3)** | 2018-09-10 | <details><summary>In Pr...</summary><p>In Proceedings of the International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS'18), Madrid, Spain, Jun. 4-6, 2018</p></details> |
 
 ## Interactive Navigation
 | **Title** | **Date** | **Comment** |
@@ -88,17 +46,31 @@ labels: documentation
 | **[CoINS: Counterfactual Interactive Navigation via Skill-Aware VLM](https://arxiv.org/abs/2601.03956v1)** | 2026-01-07 | 17 pages, 13 figures |
 | **[AINav: Large Language Model-Based Adaptive Interactive Navigation](https://arxiv.org/abs/2503.22942v2)** | 2025-12-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, accepted to IEEE Robotics & Automation Magazine</p></details> |
 
-## Agile Locomotion
+## Autonomous Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ParkourFormer: Integrating Predictive Supervision and Sequence Modeling into Parkour Locomotion](https://arxiv.org/abs/2605.25782v3)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project Homepage: https://mronaldo-gif.github.io/parkourformer.github.io/</p></details> |
-| **[S-Cheetah: A Novel Quadrupedal Robot with a 3-DOF Active Spine Learning Agile Locomotion](https://arxiv.org/abs/2605.27909v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project website: https://himmy-robotics.github.io/scheetah</p></details> |
-| **[Learning Dynamic Pick-and-Place for a Legged Manipulator](https://arxiv.org/abs/2605.15713v1)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters 2026</p></details> |
-| **[Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion](https://arxiv.org/abs/2602.00678v4)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted at Robotics Science and Systems (RSS), 2026. Project Page: https://robogauge.github.io/complete/</p></details> |
-| **[SmoothTurn: Learning to Turn Smoothly for Agile Navigation with Quadrupedal Robots](https://arxiv.org/abs/2603.12842v1)** | 2026-03-13 |  |
-| **[DreamWaQ++: Obstacle-Aware Quadrupedal Locomotion With Resilient Multi-Modal Reinforcement Learning](https://arxiv.org/abs/2409.19709v2)** | 2026-02-26 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Robotics 2026. Project site is available at https://dreamwaqpp.github.io</p></details> |
-| **[CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation](https://arxiv.org/abs/2512.14689v2)** | 2026-02-09 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project page: https://nvlabs.github.io/CHIP/</p></details> |
-| **[PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour](https://arxiv.org/abs/2601.15995v1)** | 2026-01-22 |  |
-| **[M-SEVIQ: A Multi-band Stereo Event Visual-Inertial Quadruped-based Dataset for Perception under Rapid Motion and Challenging Illumination](https://arxiv.org/abs/2601.02777v1)** | 2026-01-06 | 6 pages, 7 figures |
-| **[PPL: Point Cloud Supervised Proprioceptive Locomotion Reinforcement Learning for Legged Robots in Crawl Spaces](https://arxiv.org/abs/2508.09950v2)** | 2025-12-04 | Accepted by RA-L |
+| **[Deep Learning Approaches for 3D Medical Scene Completion: From Geometric Modeling to Generative Paradigms](https://arxiv.org/abs/2606.24180v1)** | 2026-06-23 |  |
+| **[DVL-DeepONet: A Physics-Guided Operator Learning for Resilient Underwater Navigation](https://arxiv.org/abs/2606.23502v1)** | 2026-06-22 | 15 pages, 6 figures |
+| **[Long-Distance Real-World Navigation of the Legged-Wheeled Robot Go2-W Using Deep Reinforcement Learning](https://arxiv.org/abs/2606.21387v1)** | 2026-06-19 |  |
+| **[Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation](https://arxiv.org/abs/2606.20491v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
+| **[Safety-Critical LiDAR-Inertial Odometry with On-Manifold Deterministic Protection Level](https://arxiv.org/abs/2605.09383v2)** | 2026-06-18 |  |
+| **[Sensor Configuration Matters: A Systematic Evaluation of Multimodal SLAM on Quadruped Robots](https://arxiv.org/abs/2606.19067v1)** | 2026-06-17 |  |
+| **[Embedding Semantic Risk into Distance Fields and CBFs for Online Monocular Safe Control](https://arxiv.org/abs/2606.01605v2)** | 2026-06-16 |  |
+| **[MVOFormer: Flow-Semantic Transformer for Robust Monocular Visual Odometry](https://arxiv.org/abs/2606.16474v1)** | 2026-06-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Embedded Arena: Iterative Optimization via Hardware Feedback](https://arxiv.org/abs/2606.16190v1)** | 2026-06-15 | <details><summary>Code:...</summary><p>Code: https://github.com/ubicomplab/embedded-arena</p></details> |
+| **[GuideWalk: Learning Unified Autonomous Navigation and Locomotion for Humanoid Robots across Versatile Terrains](https://arxiv.org/abs/2606.10449v2)** | 2026-06-13 |  |
+
+## Frontier-Based
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[FPAS: Frontier-Based Path Planning with Adaptive Sampling for Large-Scale Unknown Environments](https://arxiv.org/abs/2606.22838v1)** | 2026-06-22 | IROS 2026 |
+| **[Temporal-Logic-Aware Frontier-Based Exploration](https://arxiv.org/abs/2602.18951v1)** | 2026-02-21 | 8 pages, 7 figures |
+| **[History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation](https://arxiv.org/abs/2506.16623v1)** | 2025-06-19 |  |
+| **[Frontier-Based Exploration for Multi-Robot Rendezvous in Communication-Restricted Unknown Environments](https://arxiv.org/abs/2403.11617v3)** | 2024-07-19 |  |
+| **[Autonomous Exploration of Unknown 3D Environments Using a Frontier-Based Collector Strategy](https://arxiv.org/abs/2311.12408v1)** | 2023-11-21 |  |
+| **[Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment](https://arxiv.org/abs/2307.07296v1)** | 2023-07-14 | 23 pages, Journal |
+| **[Explore-Bench: Data Sets, Metrics and Evaluations for Frontier-based and Deep-reinforcement-learning-based Autonomous Exploration](https://arxiv.org/abs/2202.11931v1)** | 2022-02-24 | <details><summary>To be...</summary><p>To be published in IEEE International Conference on Robotics and Automation (ICRA), May 23-27, 2022</p></details> |
+| **[Auxiliary Heuristics for Frontier Based Planners](https://arxiv.org/abs/2108.11860v1)** | 2021-08-26 |  |
+| **[3D Reactive Control and Frontier-Based Exploration for Unstructured Environments](https://arxiv.org/abs/2108.00380v1)** | 2021-08-01 | <details><summary>Accep...</summary><p>Accepted to appear at 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic (8 pages, 9 figures)</p></details> |
+| **[Robotic Exploration of Unknown 2D Environment Using a Frontier-based Automatic-Differentiable Information Gain Measure](https://arxiv.org/abs/2011.05323v1)** | 2020-11-10 |  |
 
