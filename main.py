@@ -45,7 +45,7 @@ keywords = [
     "Long Distance Navigation",
     "Interactive Navigation",           # 交互式导航（与环境发生物理接触或避障博弈）
     "Autonomous Navigation",
-    "Path-Aware Navigation"，
+    "Path-Aware Navigation",
     "Frontier-Based",
 ]
 
