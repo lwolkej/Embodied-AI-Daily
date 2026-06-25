@@ -42,16 +42,11 @@ logging.info("获取关键词列表")
 keywords = [
     # === 原始核心关键词 ===
     "Long Range Navigation",
-    "Vision Based Navigation",
-    "quadruped robots",
-    "traversability mapping",
-
-    # === 新增：主动感知与交互式规划 (Active & Interactive) ===
-    "Active Perception",                # 主动感知（如主动调整视角获取信息）
+    "Long Distance Navigation",
     "Interactive Navigation",           # 交互式导航（与环境发生物理接触或避障博弈）
-
-    # === 新增：四足特有姿态与越野规划 (Quadruped Specifics) ===
-    "Agile Locomotion",                 # 敏捷运动（强调复杂地形下的机动性）
+    "Autonomous Navigation",
+    “Path-Aware Navigation”，
+    “Frontier-Based”
 ]
 
 max_result = 15  # maximum query results from arXiv API for each keyword
