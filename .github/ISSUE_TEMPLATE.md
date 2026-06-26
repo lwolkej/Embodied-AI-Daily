@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 26, 2026
+title: Latest 10 Papers - June 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -49,6 +49,7 @@ labels: documentation
 ## Autonomous Navigation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation](https://arxiv.org/abs/2606.26265v1)** | 2026-06-24 |  |
 | **[Deep Learning Approaches for 3D Medical Scene Completion: From Geometric Modeling to Generative Paradigms](https://arxiv.org/abs/2606.24180v1)** | 2026-06-23 |  |
 | **[DVL-DeepONet: A Physics-Guided Operator Learning for Resilient Underwater Navigation](https://arxiv.org/abs/2606.23502v1)** | 2026-06-22 | 15 pages, 6 figures |
 | **[Long-Distance Real-World Navigation of the Legged-Wheeled Robot Go2-W Using Deep Reinforcement Learning](https://arxiv.org/abs/2606.21387v1)** | 2026-06-19 |  |
@@ -58,7 +59,6 @@ labels: documentation
 | **[Embedding Semantic Risk into Distance Fields and CBFs for Online Monocular Safe Control](https://arxiv.org/abs/2606.01605v2)** | 2026-06-16 |  |
 | **[MVOFormer: Flow-Semantic Transformer for Robust Monocular Visual Odometry](https://arxiv.org/abs/2606.16474v1)** | 2026-06-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Embedded Arena: Iterative Optimization via Hardware Feedback](https://arxiv.org/abs/2606.16190v1)** | 2026-06-15 | <details><summary>Code:...</summary><p>Code: https://github.com/ubicomplab/embedded-arena</p></details> |
-| **[GuideWalk: Learning Unified Autonomous Navigation and Locomotion for Humanoid Robots across Versatile Terrains](https://arxiv.org/abs/2606.10449v2)** | 2026-06-13 |  |
 
 ## Frontier-Based
 | **Title** | **Date** | **Comment** |
