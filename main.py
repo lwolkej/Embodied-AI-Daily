@@ -41,10 +41,8 @@ logging.info("获取关键词列表")
 
 keywords = [
     # === 原始核心关键词 ===
-    "Long Range Navigation",
-    "Long Distance Navigation",
-    "Interactive Navigation",           # 交互式导航（与环境发生物理接触或避障博弈）
-    "Autonomous Navigation",
+    "Topological Map",           # 交互式导航（与环境发生物理接触或避障博弈）
+    "Semantic-Guided Frontiers",
     "Frontier-Based",
 ]
 
