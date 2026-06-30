@@ -42,8 +42,7 @@ logging.info("获取关键词列表")
 keywords = [
     # === 原始核心关键词 ===
     "Topological Map",           # 交互式导航（与环境发生物理接触或避障博弈）
-    "Semantic-Guided Frontiers",
-    "Frontier-Based",
+    "Visual Frontiers",
 ]
 
 max_result = 15  # maximum query results from arXiv API for each keyword
