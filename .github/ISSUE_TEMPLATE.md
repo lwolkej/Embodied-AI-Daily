@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 07, 2026
+title: Latest 10 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Topological Map
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Unified Geometric Space for Topological Alignment Between Transformer-Based Models and Human Brain Networks](https://arxiv.org/abs/2510.24342v2)** | 2026-06-03 |  |
+| **[Information-Geometric Superposed Vowel Evaluation: Part 1. Moraic Syllabary (Japanese)](https://arxiv.org/abs/2607.04154v1)** | 2026-07-05 | 8 pages, 4 figures |
 | **[PlatonicNav: Unveiling Semantic Correspondence in Navigation with Platonic Topological Maps](https://arxiv.org/abs/2606.01788v1)** | 2026-06-01 |  |
 | **[Topology-Aware State Abstraction with Tangle Cores for Markov Decision Processes](https://arxiv.org/abs/2606.00427v1)** | 2026-05-29 |  |
 | **[Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN](https://arxiv.org/abs/2605.14801v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICRA Workshop MM-Spatial AI, Oral</p></details> |
