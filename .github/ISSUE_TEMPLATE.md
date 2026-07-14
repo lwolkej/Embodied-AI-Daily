@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 14, 2026
+title: Latest 10 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Topological Map
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SLIDER: Sparse History-Guided Aerial Robot Target Search using Sliding Local Maps](https://arxiv.org/abs/2607.10553v1)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L), 2026. https://github.com/Poaos/SLIDER</p></details> |
 | **[TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing](https://arxiv.org/abs/2510.04100v2)** | 2026-07-09 | <details><summary>Jiami...</summary><p>Jiaming Wang, Diwen Liu, and Jizhuo Chen contributed equally</p></details> |
 | **[Information-Geometric Superposed Vowel Evaluation: Part 1. Moraic Syllabary (Japanese)](https://arxiv.org/abs/2607.04154v1)** | 2026-07-05 | 8 pages, 4 figures |
 | **[PlatonicNav: Unveiling Semantic Correspondence in Navigation with Platonic Topological Maps](https://arxiv.org/abs/2606.01788v1)** | 2026-06-01 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Zero-shot Imitation Learning by Latent Topology Mapping](https://arxiv.org/abs/2605.08450v1)** | 2026-05-08 |  |
 | **[Palm-sized Omnidirectional Vision-Based UAV Exploration with Sparse Topological Map Guidance](https://arxiv.org/abs/2605.07275v1)** | 2026-05-08 |  |
 | **[Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models](https://arxiv.org/abs/2605.07148v1)** | 2026-05-08 |  |
-| **[Change-Robust Online Spatial-Semantic Topological Mapping](https://arxiv.org/abs/2605.02227v1)** | 2026-05-04 |  |
 
 ## Visual Frontiers
 | **Title** | **Date** | **Comment** |
