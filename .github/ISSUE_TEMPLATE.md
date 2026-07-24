@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 24, 2026
+title: Latest 10 Papers - July 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Topological Map
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HGeo-TopoMap: Boosting Topological Mapping with Hierarchical Geometric Priors](https://arxiv.org/abs/2607.21281v1)** | 2026-07-23 | <details><summary>The s...</summary><p>The source code and model weights will be made publicly available at https://github.com/lynn-yu/HGeo-TopoMap</p></details> |
 | **[PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops](https://arxiv.org/abs/2607.12811v1)** | 2026-07-14 | <details><summary>2026 ...</summary><p>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS); 8 pages, 5 figures</p></details> |
 | **[SLIDER: Sparse History-Guided Aerial Robot Target Search using Sliding Local Maps](https://arxiv.org/abs/2607.10553v1)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L), 2026. https://github.com/Poaos/SLIDER</p></details> |
 | **[TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing](https://arxiv.org/abs/2510.04100v2)** | 2026-07-09 | <details><summary>Jiami...</summary><p>Jiaming Wang, Diwen Liu, and Jizhuo Chen contributed equally</p></details> |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN](https://arxiv.org/abs/2605.14801v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICRA Workshop MM-Spatial AI, Oral</p></details> |
 | **[HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation](https://arxiv.org/abs/2605.13321v1)** | 2026-05-13 |  |
 | **[Zero-shot Imitation Learning by Latent Topology Mapping](https://arxiv.org/abs/2605.08450v1)** | 2026-05-08 |  |
-| **[Palm-sized Omnidirectional Vision-Based UAV Exploration with Sparse Topological Map Guidance](https://arxiv.org/abs/2605.07275v1)** | 2026-05-08 |  |
 
 ## Visual Frontiers
 | **Title** | **Date** | **Comment** |
