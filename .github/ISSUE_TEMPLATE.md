@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 27, 2026
+title: Latest 10 Papers - August 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Topological Map
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation](https://arxiv.org/abs/2608.25642v1)** | 2026-08-26 |  |
 | **[RAPID-LLM: Resilience-Aware Performance analysis of Infrastructure for Distributed LLM Training and Inference](https://arxiv.org/abs/2512.19606v2)** | 2026-08-15 |  |
 | **[Unordered Landmark Visual Navigation](https://arxiv.org/abs/2608.06833v2)** | 2026-08-10 | <details><summary>ECCV2...</summary><p>ECCV2026 Oral & Spotlight</p></details> |
 | **[ODG-NoMaD: Overhead-Camera Direction-Guided NoMaD](https://arxiv.org/abs/2608.21395v1)** | 2026-08-03 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing](https://arxiv.org/abs/2510.04100v2)** | 2026-07-09 | <details><summary>Jiami...</summary><p>Jiaming Wang, Diwen Liu, and Jizhuo Chen contributed equally</p></details> |
 | **[Information-Geometric Superposed Vowel Evaluation: Part 1. Moraic Syllabary (Japanese)](https://arxiv.org/abs/2607.04154v1)** | 2026-07-05 | 8 pages, 4 figures |
 | **[PlatonicNav: Unveiling Semantic Correspondence in Navigation with Platonic Topological Maps](https://arxiv.org/abs/2606.01788v1)** | 2026-06-01 |  |
-| **[Topology-Aware State Abstraction with Tangle Cores for Markov Decision Processes](https://arxiv.org/abs/2606.00427v1)** | 2026-05-29 |  |
 
 ## Visual Frontiers
 | **Title** | **Date** | **Comment** |
