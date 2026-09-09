@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 09, 2026
+title: Latest 10 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Topological Map
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Human-Aware Target Tracking and Navigation: Fusing Kinematic State Estimation with Structural Map Constraints](https://arxiv.org/abs/2609.07091v1)** | 2026-09-07 | <details><summary>Submi...</summary><p>Submitted to Australian Conference on Robotics and Automation</p></details> |
 | **[FVeinSyn: Synthetic Finger Vein Image Generator](https://arxiv.org/abs/2608.27527v1)** | 2026-08-27 |  |
 | **[EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation](https://arxiv.org/abs/2608.25642v1)** | 2026-08-26 |  |
 | **[RAPID-LLM: Resilience-Aware Performance analysis of Infrastructure for Distributed LLM Training and Inference](https://arxiv.org/abs/2512.19606v2)** | 2026-08-15 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops](https://arxiv.org/abs/2607.12811v1)** | 2026-07-14 | <details><summary>2026 ...</summary><p>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS); 8 pages, 5 figures</p></details> |
 | **[SLIDER: Sparse History-Guided Aerial Robot Target Search using Sliding Local Maps](https://arxiv.org/abs/2607.10553v1)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L), 2026. https://github.com/Poaos/SLIDER</p></details> |
 | **[TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing](https://arxiv.org/abs/2510.04100v2)** | 2026-07-09 | <details><summary>Jiami...</summary><p>Jiaming Wang, Diwen Liu, and Jizhuo Chen contributed equally</p></details> |
-| **[Information-Geometric Superposed Vowel Evaluation: Part 1. Moraic Syllabary (Japanese)](https://arxiv.org/abs/2607.04154v1)** | 2026-07-05 | 8 pages, 4 figures |
 
 ## Visual Frontiers
 | **Title** | **Date** | **Comment** |
