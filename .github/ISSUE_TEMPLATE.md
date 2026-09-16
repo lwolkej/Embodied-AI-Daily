@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 16, 2026
+title: Latest 10 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Topological Map
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lesion-centered 3D mapping of colonoscopy procedures: validation of a hierarchical ensemble pipeline on public benchmark videos](https://arxiv.org/abs/2609.16672v1)** | 2026-09-15 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 4 tables. Code: github.com/hyunjun1121/endovision-pipeline (Zenodo DOI 10.5281/zenodo.22136766)</p></details> |
 | **[TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing](https://arxiv.org/abs/2510.04100v3)** | 2026-09-12 | <details><summary>ICRA ...</summary><p>ICRA 2026. Updated author list to match the conference version; added a reference and publication note. Jiaming Wang, Diwen Liu, and Jizhuo Chen contributed equally</p></details> |
 | **[A traffic management system for large and heterogeneous vehicles in narrow industrial environments](https://arxiv.org/abs/2609.10400v1)** | 2026-09-09 |  |
 | **[Human-Aware Target Tracking and Navigation: Fusing Kinematic State Estimation with Structural Map Constraints](https://arxiv.org/abs/2609.07091v1)** | 2026-09-07 | <details><summary>Submi...</summary><p>Submitted to Australian Conference on Robotics and Automation</p></details> |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Unordered Landmark Visual Navigation](https://arxiv.org/abs/2608.06833v2)** | 2026-08-10 | <details><summary>ECCV2...</summary><p>ECCV2026 Oral & Spotlight</p></details> |
 | **[ODG-NoMaD: Overhead-Camera Direction-Guided NoMaD](https://arxiv.org/abs/2608.21395v1)** | 2026-08-03 |  |
 | **[HGeo-TopoMap: Boosting Topological Mapping with Hierarchical Geometric Priors](https://arxiv.org/abs/2607.21281v1)** | 2026-07-23 | <details><summary>The s...</summary><p>The source code and model weights will be made publicly available at https://github.com/lynn-yu/HGeo-TopoMap</p></details> |
-| **[PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops](https://arxiv.org/abs/2607.12811v1)** | 2026-07-14 | <details><summary>2026 ...</summary><p>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS); 8 pages, 5 figures</p></details> |
 
 ## Visual Frontiers
 | **Title** | **Date** | **Comment** |
