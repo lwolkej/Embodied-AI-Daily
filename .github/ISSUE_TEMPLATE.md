@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 30, 2026
+title: Latest 10 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Visual Frontiers
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Readability: Evaluating Task Information Recoverability](https://arxiv.org/abs/2609.36957v1)** | 2026-09-29 |  |
 | **[OpenFrontier: General Navigation with Visual-Language Grounded Frontiers](https://arxiv.org/abs/2603.05377v3)** | 2026-06-28 |  |
 | **[Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation](https://arxiv.org/abs/2511.08935v2)** | 2026-03-21 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
 | **[WildOS: Open-Vocabulary Object Search in the Wild](https://arxiv.org/abs/2602.19308v1)** | 2026-02-22 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, 2 tables</p></details> |
