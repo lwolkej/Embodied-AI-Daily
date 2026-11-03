@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 03, 2026
+title: Latest 10 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Topological Map
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy-Efficient Geographic Multicast Routing in Cognitive Wireless Sensor Networks](https://arxiv.org/abs/2611.01212v1)** | 2026-10-31 |  |
 | **[From Alert Floods to Precedence Forests: Zero-Prior-Knowledge Incident Triage with LOGOS](https://arxiv.org/abs/2610.02297v1)** | 2026-10-01 | <details><summary>20 pa...</summary><p>20 pages, 3 figures, 13 tables</p></details> |
 | **[BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph](https://arxiv.org/abs/2609.40085v1)** | 2026-09-30 |  |
 | **[MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline](https://arxiv.org/abs/2609.30104v2)** | 2026-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table</p></details> |
@@ -16,7 +17,6 @@ labels: documentation
 | **[A traffic management system for large and heterogeneous vehicles in narrow industrial environments](https://arxiv.org/abs/2609.10400v1)** | 2026-09-09 |  |
 | **[Human-Aware Target Tracking and Navigation: Fusing Kinematic State Estimation with Structural Map Constraints](https://arxiv.org/abs/2609.07091v1)** | 2026-09-07 | <details><summary>Submi...</summary><p>Submitted to Australian Conference on Robotics and Automation</p></details> |
 | **[FVeinSyn: Synthetic Finger Vein Image Generator](https://arxiv.org/abs/2608.27527v1)** | 2026-08-27 |  |
-| **[EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation](https://arxiv.org/abs/2608.25642v1)** | 2026-08-26 |  |
 
 ## Visual Frontiers
 | **Title** | **Date** | **Comment** |
